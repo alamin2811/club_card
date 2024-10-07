@@ -1,0 +1,1 @@
+export const baseUrl = 'https://customer-pannel.clubcard.gr/api'
