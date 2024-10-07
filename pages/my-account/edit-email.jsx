@@ -1,6 +1,6 @@
 import React from 'react'
-import Email from '@/src/Component/App/MyAccount/email'
 import Layout2 from '@/src/Component/Core/Layout/Layout2'
+import Email from '@/src/Component/App/MyAccount/Email'
 
 const EditEmail = () => {
   return (
